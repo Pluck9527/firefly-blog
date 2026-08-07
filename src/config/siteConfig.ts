@@ -18,12 +18,7 @@ export const siteConfig: SiteConfig = {
 	description: "Pluck 的个人博客，用于记录技术、思考与生活。",
 
 	// 站点关键词
-	keywords: [
-		"Pluck",
-		"博客",
-		"技术博客",
-		"个人博客",
-	],
+	keywords: ["Pluck", "博客", "技术博客", "个人博客"],
 
 	// 主题色
 	themeColor: {
